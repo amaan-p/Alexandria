@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "457521390273",
+    "project_id": "alexandria-12",
+    "storage_bucket": "alexandria-12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457521390273:android:259e61fa92e3124e37aa40",
+        "android_client_info": {
+          "package_name": "com.example.alexandria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457521390273-4em7fiejnnr2ua8hbqvkop8q9n8s2ct7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alexandria",
+            "certificate_hash": "46380bd1f53fb707d657a1b1e1e39cd1942744cc"
+          }
+        },
+        {
+          "client_id": "457521390273-s16ajk2q1s170bo9a611o05oujolj4sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQPmVhfPtkqT1H-XEmlyOW7IucDGlUOag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457521390273-s16ajk2q1s170bo9a611o05oujolj4sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
