@@ -1,17 +1,16 @@
-# Alexandria
-## Flutter based Book Reading App
+# alexandria
 
-### Introducing an innovative Flutter app that allows you to read PDFs and browse through an  collection of books. With the app, you can access a vast library of digital books and documents, all in one convenient place.It uses Firebase auth and firebase Storage.
+A Knowlege App Made in Flutetr
 
-#### Dependencies used</br>
+## Getting Started
 
-  cupertino_icons: ^1.0.2<br/>
-  firebase_core: ^2.4.0<br/>
-  firebase_auth: ^4.2.0<br/>
-  carousel_slider: ^4.0.0-nullsafety.0<br/>
-  firebase_storage: ^11.0.8<br/>
-  path: ^1.8.2<br/>
-  path_provider: ^2.0.11<br/>
-  flutter_pdfview: ^1.2.5<br/>
-  <br/><br/>
-![Frame 1](https://user-images.githubusercontent.com/98171563/228764383-1a1406a0-8715-46b1-a0d1-722cfd8d826e.png)
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
